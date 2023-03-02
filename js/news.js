@@ -1,4 +1,4 @@
-async function extractNews() {
+/*async function extractNews() {
     var url = "https://newsapi.org/v2/top-headlines?country=us&category=technology&pageSize=100&apiKey=69c05c3e9def4e2aaee0d739b28ee3f1";
 
     var cardContainer = document.getElementById('newsCards');
@@ -49,4 +49,4 @@ async function extractNews() {
         });
 }
 
-extractNews();
+extractNews();*/
